@@ -1,7 +1,7 @@
 # Site settings
 title:          Teaconomy
 description:    "Spilling the Tea"
-baseurl:        ""
+baseurl:        "/blogme"
 url:            "https://lynnear19.github.io"
 
 
